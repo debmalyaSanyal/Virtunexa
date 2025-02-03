@@ -22,13 +22,13 @@ Project Tasks
 
 # Project: Markdown to HTML Converter
 
-Develop a Python-based tool to convert Markdown (.md) files into HTML.
-Uses Tkinter for a simple GUI and markdown for conversion.
-Select a Markdown file via a file dialog, and the output is saved as .html.
-Includes basic HTML styling for readability.
-Displays success or error messages upon conversion.
-Core features: file selection, conversion, and output handling.
-Deliverables: project script, dependencies, and documentation.
-Future enhancements: batch conversion, theme selection, and live preview.
-To see:                   
+- Develop a Python-based tool to convert Markdown (.md) files into HTML.
+- Uses Tkinter for a simple GUI and markdown for conversion.
+- Select a Markdown file via a file dialog, and the output is saved as .html.
+- Includes basic HTML styling for readability.
+- Displays success or error messages upon conversion.
+- Core features: file selection, conversion, and output handling.
+- Deliverables: project script, dependencies, and documentation.
+- Future enhancements: batch conversion, theme selection, and live preview.
+- To see: https://github.com/debmalyaSanyal/Virtunexa/blob/main/conversion_one_file_to_another.py                  
   
