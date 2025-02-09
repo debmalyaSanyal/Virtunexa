@@ -30,5 +30,14 @@ Project Tasks
 - Core features: file selection, conversion, and output handling.
 - Deliverables: project script, dependencies, and documentation.
 - Future enhancements: batch conversion, theme selection, and live preview.
-- To see: https://github.com/debmalyaSanyal/Virtunexa/blob/main/conversion_one_file_to_another.py                  
+- To see: https://github.com/debmalyaSanyal/Virtunexa/blob/main/conversion_one_file_to_another.py
   
+# Project : 🏋️ AI-Powered Workout & Diet Tracker
+
+- **Personalized Workout Plans** based on fitness goals
+- **AI-Generated Diet Plans** with Indian food recommendations
+- **Progress Tracking** using interactive charts and stats
+- **Health-Conscious Adjustments** for conditions like diabetes & hypertension
+- **AI Support** for exercise posture guidance and nutrition advice
+- An AI-driven fitness assistant to help users log workouts, track progress, and receive personalized diet suggestions.   
+- To see: https://github.com/debmalyaSanyal/Virtunexa/blob/main/task%204.py 
