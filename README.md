@@ -1,4 +1,4 @@
-Project Tasks                                       
+![image](https://github.com/user-attachments/assets/24a17317-d004-41d0-abb6-f56b95572ca0)Project Tasks                                       
 # Project 1 : Weather Application
 
 - Develop a Python-based weather application that connects to a public weather API (e.g., OpenWeatherMap, WeatherStack).
@@ -9,6 +9,23 @@ Project Tasks
 - Deliverables: project files, executable script, and documentation.
 - Future enhancements: weather alerts, multi-location support, and graphical weather trends.
 - to see : https://github.com/debmalyaSanyal/Virtunexa/blob/main/game2.py
+
+#Project 1 part 2 :  Epic Adventure: The Shattered Realm                      &#x20;
+
+- **A text-based adventure game using Python and Tkinter**
+- **Immersive fantasy world** with choices that shape the story
+- **Choose your character**: Warrior, Mage, or Thief
+- **Interactive GUI** with images and voice narration (TTS integration)
+- **Multiple locations** to explore: villages, forests, mountains
+- **Inventory, experience points (EXP), and energy system**
+- **Dynamic storyline** with battles, mysteries, and puzzles
+- **Installation**: Ensure `tkinter`, `PIL`, and `pyttsx3` are installed
+- **Run the game**:                     
+  
+- **Open-source project**, free to expand and customize!
+
+
+
 # Project 2: Hangman Game                                                                    &#x20;
 
 - Develop a Python-based Hangman game where users guess letters to complete a word.
